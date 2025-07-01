@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Devops and Web3<br><br>👨‍💻 All of my projects are available at https://babith-portfolio.vercel.app/<br><br>💬 Ask me about MERN Next js<br><br>📫 How to reach me babithkullachetti44@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/12DmKB6RK1ofQBW5towW8os4P4AnXrbAm/edit?usp=drive_link&ouid=114535806877264044479&rtpof=true&sd=true
+🌱 I’m currently learning Devops and Web3<br><br>👨‍💻 All of my projects are available at https://babith-portfolio.vercel.app/<br><br>💬 Ask me about MERN Next js<br><br>📫 How to reach me babithkullachetti44@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1TqdJ7dxD4RG4oU40l86vEEaZaJJOadve/view?usp=sharing
 
 
 ## 🌐 Socials:
